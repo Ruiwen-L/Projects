@@ -170,5 +170,4 @@ Demonstrates strong generalization under small input perturbations.
 - PyTorch  
 - Optuna  
 - GroupKFold Cross-Validation  
-- t-SNE Visualization  
 - Matplotlib & Seaborn  
